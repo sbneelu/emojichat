@@ -1,0 +1,15 @@
+🏁 ➡️ 🔢 🍇
+    🎞️🐇💻❗ ➡️ args
+    ↪️ ❎📏args❓ 🙌 2❗ 🍇
+        😀🔤Usage: ./server <port>🔤❗
+        ↩️ 1
+    🍉
+    🔢 🐽 args 1 ❗ 10 ❗ ➡️ port_opt
+    ↪️ port_opt 🙌 🤷 🍇
+        😀🔤Usage: ./server <port>🔤❗
+        ↩️ 2
+    🍉
+    🍺 port_opt ➡️ port
+    😀 🔤Starting server on port 🧲 port 🧲.🔤❗
+    ↩️ 0
+🍉
