@@ -8,7 +8,7 @@
     🍉
     🔢 🐽 args 2 ❗ 10 ❗ ➡️ port_opt
     ↪️ port_opt 🙌 🤷 🍇
-        😀🔤Usage: ./server <hostname> <port>🔤❗
+        😀🔤Usage: ./client <hostname> <port>🔤❗
         ↩️↩️
     🍉
     🐽 args 1 ❗ ➡️ hostname
